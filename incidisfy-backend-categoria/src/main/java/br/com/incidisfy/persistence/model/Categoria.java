@@ -25,7 +25,7 @@ import lombok.Setter;
 @EqualsAndHashCode
 @Builder
 @Entity
-@Table(name="dt_veiculos")
+@Table(name="dt_categoria")
 public class Categoria implements Serializable {
 
 	/**
